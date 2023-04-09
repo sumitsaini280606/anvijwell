@@ -1,0 +1,27 @@
+.my_prods2{
+    min-width: 352px;
+    max-width: 352px;
+    height:507px;
+    margin: 0px 15px;
+    background-color: #353530;
+    
+}
+.sec-iv-img{
+    width: 100%;
+    height: 50%;
+}
+
+.pnews{
+    margin: 20px;
+    color: #939392;
+}
+.sec-iv-info{
+    color: white;
+    font-size: 25px;
+}
+.sec-iv-details{
+    margin-top: 10px;
+}
+
+
+

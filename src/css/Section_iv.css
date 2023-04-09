@@ -1,0 +1,54 @@
+#sec_iv{
+    background-color: #1c1b19;
+}
+.text_div{
+    padding-top:8%;
+    padding-left: 7%;
+  }
+  .text_div h6{
+    color:grey;
+  }
+  .text_div h1{
+    color:white;
+    font-size:80px;
+    font-family:prata,'Times New Roman', Times, serif;
+    }
+
+
+    .product-carousel2{
+        position: relative;
+        overflow: hidden;
+        padding: 46px;
+        }
+.product-container2{
+    height: 500px;
+    padding: 0 10px;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    
+}
+.sec-iii-btns{
+    
+}
+.sec-iv-btns svg{
+    font-size: 25px;
+}
+.sec-iv-btns button{
+    top: -70px;
+    height: 70px;
+    width: 70px;
+    position:relative;
+    
+    border: none;
+}
+.pre-btn2{
+    background-color:#1c1b19;
+    left:85%;
+    color: white;
+}
+.next-btn2{
+    background-color:#fcd462;
+    left:86%;
+}

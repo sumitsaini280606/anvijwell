@@ -1,0 +1,88 @@
+#sec_1{
+    position: relative;
+    background-image: url("/public/images/sec_i.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-x: -110px;
+    background-position-y: 130px;
+    background-color: #070a0f;
+    height:800px;
+    text-align: center;
+  }
+  #sec_1 h6,h1{
+    color:white;
+  }
+  #sec_1 h6{
+    padding-top: 20%;
+  }
+  #sec_1 h1{
+  font-size: 100px;
+  font-weight: 10;
+  }
+  #b1{
+    background-color:#fcd462 ;
+    height: 60px;
+    width: 254px;
+    border: #fcd462;
+  }
+  #b1:hover{
+    background-color: transparent;
+    color:white;
+    border: 1px solid white;
+  }
+  .sec_1Bar{
+    position: absolute;
+    background-color: #353530;
+    width:80%;
+    height:240px;
+    left: 120px;
+    bottom:-140px;
+    display: flex;
+  }
+  .bar1{
+    display: flex;
+    height:180px;
+    width: 250px;
+    border:2px solid #454541;
+    text-align: left;
+    color: white;
+    margin: 30px;
+    padding: 20px;
+  }
+  
+  .img_div{
+    height: 50px;
+    width:50px;
+    background-color: #fcd462;
+    text-align: center;
+    padding: 9px;
+  }
+  
+  .sec_1Bar img{
+    height: 20px;
+    width: 20px;
+  }
+  .sec1_imagehover{
+    display: none;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 25px;
+  }
+  .sec1_imagehover img{
+    height:100px;
+    width:100px;
+  }
+  .bar1:hover{
+    background-color: black;
+    border: none;
+  }
+  .bar1:hover .sec1_imagehover{
+    display: block;
+  }
+  .bar1 h5{
+  padding-top: 18px;
+  font-size: 25px;
+  }
+  .bar1 p{
+    padding-top: 8px;
+  }

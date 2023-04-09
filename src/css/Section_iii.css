@@ -1,0 +1,57 @@
+#sec_iii{
+    background-color: #353530;
+}
+.text_div{
+    padding-top:8%;
+    padding-left: 7%;
+  }
+  .text_div h6{
+    color:grey;
+  }
+  .text_div h1{
+    color:white;
+    font-size:80px;
+    font-family:prata,'Times New Roman', Times, serif;
+    }
+    .text_div p{
+      color:grey;
+      padding-top: 10px;
+    }
+
+    .product-carousel{
+        position: relative;
+        overflow: hidden;
+        padding: 46px;
+        }
+.product-container{
+    height: 500px;
+    padding: 0 10px;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    
+}
+.sec-iii-btns{
+    
+}
+.sec-iii-btns svg{
+    font-size: 25px;
+}
+.sec-iii-btns button{
+    top: 30px;
+    height: 70px;
+    width: 70px;
+    position:relative;
+    
+    border: none;
+}
+.pre-btn1{
+    background-color:#1c1b19;
+    left:85%;
+    color: white;
+}
+.next-btn1{
+    background-color:#fcd462;
+    left:86%;
+}

@@ -1,0 +1,82 @@
+.sec_2{
+    display: flex;
+    background-image: url("/public/images/sec_ii.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #1c1b19;
+    background-position-x: 190px;
+    background-position-y: 390px;
+    width: 100%;
+    padding: 250px 0px 0px 70px;
+    height: 1000px;
+    color:white;
+   }
+  
+  .sec2_imgbar1{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    margin-left: 0%;
+    padding-left: 0%;
+  }
+  .sec2_ibar11{
+    display: flex;
+  }
+  .sec2_imgbar1,.sec2_imgbar2{
+  /* position: relative;
+  left:9.5%;
+  top:22%; */
+  }
+  .sec2_imgdiv1{
+    height: 350px;
+    width:350px;
+    background-color: #353530;
+    text-align: center;
+  }
+  .sec2_img1{
+    height: 80px;
+    width:65px;
+    color:#fcd462;
+    margin-top: 50px;
+  }
+  .sec2_imgdiv1 h4,p{
+    padding-top:30px;
+  }
+  .sec2_img2{
+    height: 250px;
+    width:260px;
+  }
+  #sec2_imgdiv21{
+  margin-left: 20px;
+  }
+  #sec2_imgdiv22{
+    margin-top: 35px;
+    }
+  #sec2_imgdiv23{
+    margin-left: 25px;
+    margin-top: -40px;
+  }
+  .sec2_imgbar2 {
+    display: flex;
+    flex-direction: column;
+    padding: 70px 50px 0px;
+    
+  }
+  .sec2_imgbar2 h5{
+  font-size: 15px;
+  }
+  .sec2_imgbar2 h1{
+    font-size: 65px;
+  }
+  .sec2_b1{
+    background-color: #fcd462;
+    color:black;
+    border: #fcd462;
+    height:60px;
+    width:160px;
+  }
+  .sec2_b1:hover{
+  background-color:transparent;
+  color:#fcd462;
+  border:1px solid #fcd462;
+  }
